@@ -13,7 +13,7 @@ from groq import Groq
 from langchain_community.document_loaders import PyPDFLoader
 
 # Set Groq API Key
-os.environ["GROQ_API_KEY"] = "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"
+os.environ["GROQ_API_KEY"] = "YOUR API KEY"
 client = Groq(api_key=os.getenv("GROQ_API_KEY"))
 
 # Initialize session state
