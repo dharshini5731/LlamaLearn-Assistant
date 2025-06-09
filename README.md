@@ -1,4 +1,4 @@
-# 🦙 LlamaLearn Assistant
+# LlamaLearn Assistant
 
 An AI-powered interactive learning platform that transforms your study notes into engaging quizzes, flashcards, and provides comprehensive learning analytics. Built with Streamlit and powered by Groq's Llama models.
 
